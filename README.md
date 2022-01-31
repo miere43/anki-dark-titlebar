@@ -1,6 +1,6 @@
 # anki-dark-titlebar
 
-Enables dark title bar for Anki on Windows.
+Enables dark title bars for Anki on Windows.
 
 ## Screenshot
 
